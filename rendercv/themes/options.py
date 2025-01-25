@@ -29,6 +29,7 @@ TypstDimension = Annotated[
     pydantic.AfterValidator(validate_typst_dimension),
 ]
 FontFamily = Literal[
+    "Times New Roman",
     "Libertinus Serif",
     "New Computer Modern",
     "DejaVu Sans Mono",
