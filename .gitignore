@@ -1,3 +1,6 @@
+# My custom environment
+rendercv_env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
